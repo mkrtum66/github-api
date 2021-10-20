@@ -1,0 +1,23 @@
+.searchComponent{
+  display: flex;
+  width: 300px;
+  .ant-input-search-large .ant-input-search-button{
+    height: 47px;
+  }
+}
+.usersList{
+  max-width: 500px;
+}
+.userDetails{
+  display: flex;
+  flex-wrap: wrap;
+  .ant-image{
+    margin-right: 10px;
+  }
+  .userDetails-info{
+    p{
+      margin: 0 0 10px;
+    }
+  }
+}
+
